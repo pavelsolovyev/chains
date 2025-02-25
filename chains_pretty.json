@@ -35212,7 +35212,7 @@
 }, {
   "name": "Berachain",
   "chain": "Berachain",
-  "rpc": ["https://rpc.berachain.com", "https://berachain-rpc.publicnode.com", "wss://berachain-rpc.publicnode.com"],
+  "rpc": ["https://rpc.berachain.com", "https://berachain-rpc.publicnode.com", "wss://berachain-rpc.publicnode.com", "https://rpc.berachain-apis.com", "wss://rpc.berachain-apis.com"],
   "faucets": [],
   "nativeCurrency": {
     "name": "BERA Token",
@@ -42984,6 +42984,21 @@
     "url": "https://explorer.testnet.debank.com",
     "standard": "EIP3091"
   }]
+}, {
+  "name": "Alterscope Testnet",
+  "chain": "AlterscopeTest",
+  "rpc": [],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "RISK Test Token",
+    "symbol": "RISKT",
+    "decimals": 18
+  },
+  "infoURL": "https://alterscope.org",
+  "shortName": "AlterscopeTest",
+  "chainId": 2022091,
+  "networkId": 2022091,
+  "status": "incubating"
 }, {
   "name": "Plian Mainnet Main",
   "chain": "Plian",
